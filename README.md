@@ -20,6 +20,6 @@
 
 ### 关于
 
-1. [个人github](https://github.com/MinMao-Hub)
-2. [CDSN博客首页](http://blog.csdn.net/u012988591)
-3. Q:1286090267
+1. [个人github](https://github.com/KeenTeam1990)
+2. [简书首页](http://www.jianshu.com/u/77e9dc523648)
+3. Q:812144991
